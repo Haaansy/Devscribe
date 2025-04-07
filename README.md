@@ -12,6 +12,7 @@
 ## Final Project in CIT18 - Mastery in Web Development
 - BONDOC, Hans Ian
 - CORTEZ, Alain
+- DAGDAGAN, Kenji
 - MANG-OY, Demetrie
 
 ## Running Devscribe
